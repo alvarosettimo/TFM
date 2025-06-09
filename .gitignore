@@ -1,0 +1,8 @@
+# Entorno virtual de Python
+venv
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+C:\\Users\\alvar\\OneDrive\\Escritorio\\TFM\\data\\crudo\\initial_corpus_copia_seguridad.csv
